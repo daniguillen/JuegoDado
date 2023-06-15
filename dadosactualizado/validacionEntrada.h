@@ -1,0 +1,6 @@
+#ifndef VALIDACIONENTRADA_H
+#define VALIDACIONENTRADA_H
+
+
+
+#endif
